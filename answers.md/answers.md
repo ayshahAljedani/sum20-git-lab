@@ -14,6 +14,7 @@ core.filemode=true
 core.bare=false
 core.logallrefupdates=true
 core.ignorecase=true
+
 answer 3:
 it expalains all commands on git.
 
@@ -40,8 +41,20 @@ Untracked files:
 
         .DS_Store
         answers.md/
+ansewrs 6:
+On branch master
 
-nothing added to commit but untracked files present (use "git add" to track)
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+        new file:   answers.md/answers.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+        .DS_Store
 Answer 7:
     Initial commit
 
@@ -64,3 +77,6 @@ Untracked files:
         answers.md/
 
 nothing added to commit but untracked files present
+Answer 7:
+your current branch 'master' does not have any commits yet
+answer 8:
